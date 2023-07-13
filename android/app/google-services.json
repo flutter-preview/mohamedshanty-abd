@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452125008675",
+    "project_id": "education-department-website",
+    "storage_bucket": "education-department-website.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452125008675:android:4be2d492afc2a2d8e6e296",
+        "android_client_info": {
+          "package_name": "com.example.department_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452125008675-2jeojnjdkcrrb20414tc5dhbeer2nk36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAizw2zeevECbYtEQD2_ts0m7AxgdvmAlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452125008675-2jeojnjdkcrrb20414tc5dhbeer2nk36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
